@@ -1,0 +1,16 @@
+
+.heading {
+    font-family: Tahoma, sans-serif;
+}
+
+.carrot {
+    color: rgb(160, 69, 27);
+}
+
+.berry {
+    color: rgb(171, 42, 104);
+}
+
+p, li {
+    font-family: Verdana, sans-serif;
+}
