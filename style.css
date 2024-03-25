@@ -1,10 +1,14 @@
 
 .heading {
     font-family: Tahoma, sans-serif;
+    background-color: #4b8b68;
+    text-align: center;
+    padding: 8px;
+    color: white;
 }
 
 .carrot {
-    color: rgb(160, 69, 27);
+    color: rgb(105, 44, 16);
 }
 
 .berry {
@@ -13,4 +17,14 @@
 
 p, li {
     font-family: Verdana, sans-serif;
+}
+
+.heading.carrot {
+    background-color: #e07939;
+    color: white;
+}
+
+.heading.berry {
+    background-color: #b8156f;
+    color: white;
 }
